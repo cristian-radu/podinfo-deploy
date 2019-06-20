@@ -1,0 +1,1 @@
+{"jobID":"1645cbba-1df0-0fcb-8b18-f65c5e2c26ce","spec":{"type":"policy","cause":{"Message":"i changed my mind :D","User":"Cristian Radu \u003ccristian.radu@weave.works\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"locked":"true","locked_msg":"\"i changed my mind :D\"","locked_user":"Cristian Radu \u003ccristian.radu@weave.works\u003e"}}}},"result":null}
