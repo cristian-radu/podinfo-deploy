@@ -1,0 +1,1 @@
+{"jobID":"65b9c4af-78a3-e8a3-debd-78d5ebb240c3","spec":{"type":"policy","cause":{"Message":"","User":"Cristian Radu \u003ccristian.radu@weave.works\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
