@@ -9,6 +9,7 @@ metadata:
     flux.weave.works/locked_user: Cristian Radu <cristian.radu@weave.works>
     flux.weave.works/locked: 'true'
     flux.weave.works/locked_msg: '"i wanted to :P"'
+    flux.weave.works/automated: 'true'
 spec:
   replicas: 4
   selector:
